@@ -59,14 +59,23 @@ font-family: "Roboto", sans-serif;
 .contact:focus {
     color: #404bbf;
 }
+
+
 /* main */
+.main-title {
+    background-color: #2e2f42;
+}
 .title {
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
     color: #fff;
     text-align: center;
-    letter-spacing: 0, 02em;
+    letter-spacing: 0,02em;
+}
+.title-name {
+    color:#2e2f42;
+    letter-spacing: 0,02;
 }
 .btn {
     font-family: "Roboto", sans-serif;
@@ -95,7 +104,9 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;
 }
-
+.out-team-list {
+    background-color: #fff;
+}
 .portfolio {
     background-color: fff;
 }
@@ -120,4 +131,7 @@ font-family: "Roboto", sans-serif;
     color: #f4f4fd;
     line-height: 1,5;
     letter-spacing: 0,02em;
+}
+.background-footer {
+    background-color: #2e2f42;
 }
