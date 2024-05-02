@@ -72,11 +72,11 @@ font-family: "Roboto", sans-serif;
     line-height: 107%;
     color: #fff;
     text-align: center;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
 }
 .title-name {
     color:#2e2f42;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
 }
 .btn {
     font-family: "Roboto", sans-serif;
@@ -117,7 +117,7 @@ font-family: "Roboto", sans-serif;
     font-size: 36px;
     line-height: 111%;
     text-align: center;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -132,7 +132,7 @@ font-family: "Roboto", sans-serif;
 .text-footer {
     color: #f4f4fd;
     line-height: 1,5;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
 }
 .background-footer {
     background-color: #2e2f42;
